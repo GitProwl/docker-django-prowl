@@ -12,7 +12,7 @@ By default this machine will create container listening on all interfaces on por
 mkdir django-prod
 cd django-prod
 git init
-git remote add upstream https://github.com/Montana/Docker-Prowl
+git remote add upstream https://github.com/Montana/docker-django-prowl
 git pull upstream master
 make create
 </pre>
