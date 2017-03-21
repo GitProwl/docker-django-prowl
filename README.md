@@ -3,7 +3,7 @@
 
 This is simple Django production ready Docker container for Prowl. It contains nginx+gunicorn serving static content and running a WSGI server for the Django project in question, managed by supervisord.
 
-By default this machine will create container listening on all interfaces on port 8001. Container is called 'django_app'.
+By default this machine will create a container listening on all interfaces on port 8001. The container will be called 'django_app'.
 
 
 ## Usage example
