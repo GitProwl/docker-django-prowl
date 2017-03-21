@@ -32,6 +32,8 @@ DATABASES = {
 }
 </pre>
 
-To export needed env variables, you need to define the env file. For development simply add needed env variables in your env file in root. This is all you need to do. Actually there are MySQL/PostgreSQL settings that comment out in that file already, just make them work for your machine.
+To export needed env variables, you need to define the env file. For development simply add needed env variables in your env file in root. This is all you need to do. 
+
+Actually there are MySQL/PostgreSQL settings that comment out in that file already, just make them work for your machine.
 
 Written by Montana Mendy.
